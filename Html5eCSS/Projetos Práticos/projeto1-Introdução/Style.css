@@ -1,0 +1,69 @@
+body {
+    background: #e1e1ef; 
+    font-family: verdana;
+    width: 900px;
+    margin: auto;
+    }
+.logo {
+    border: 3px solid #505050;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px; 
+    margin-top: 5px;
+    margin-left: 15px;
+    }
+#title, .subtitle {
+    color: rgb(61, 59, 56);
+    }
+#title {
+    font-size: 40px;
+    text-transform: uppercase;
+    margin-top: 5px;
+    }
+a {
+    color: #505050;
+    }
+.post_title {
+    font-size: 15px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+    }
+.post {
+    background: #fff;
+    padding: 15px;
+    border: 3px solid #505050;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    }
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    }
+.banner {
+    margin: auto;
+    width: 100%;
+    }
+.post_image {
+    margin-bottom: 15px;
+    width: 100%;
+    }
+.menu {
+    display: flex;
+    list-style:none;
+    float:right;
+    margin-top: -8.5em;
+    }
+header ul li {
+    padding: 4px;
+    }
+header ul li a:hover {
+    color: rgb(221, 221, 221);
+    }
+header ul li a {
+    text-decoration: none;
+    font-size: 25px;
+    }
+
+
